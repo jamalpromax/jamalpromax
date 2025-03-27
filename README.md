@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamalpromax  
-- 👀 I’m interested in web development and AI.  
+- 👀 I’m a frontend developer.  
 - 🌱 I’m currently learning React and JavaScript.  
-- 💞️ I’m looking to collaborate on exciting web and AI projects.  
+- 💞️ I’m looking to collaborate with other developers.  
 - 📫 How to reach me: jamalpromax95@gmail.com  
 - 😄 Pronouns: Me/We 
 - ⚡ Fun fact: I love experimenting with new technologies and building cool projects!
